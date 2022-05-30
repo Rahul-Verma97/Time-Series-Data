@@ -1,2 +1,1 @@
-# Time-Series-Data
-hello world
+# GAN BASED SYNTHETIC DATA FOR NETWORK SLICING
